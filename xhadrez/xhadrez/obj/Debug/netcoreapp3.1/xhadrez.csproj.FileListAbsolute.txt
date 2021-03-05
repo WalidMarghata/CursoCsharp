@@ -1,0 +1,4 @@
+C:\Users\walid.marghata\source\repos\xhadrez\xhadrez\obj\Debug\netcoreapp3.1\xhadrez.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\xhadrez\xhadrez\obj\Debug\netcoreapp3.1\xhadrez.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\xhadrez\xhadrez\obj\Debug\netcoreapp3.1\xhadrez.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\xhadrez\xhadrez\obj\Debug\netcoreapp3.1\xhadrez.csproj.CoreCompileInputs.cache

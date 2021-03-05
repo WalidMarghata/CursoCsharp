@@ -1,0 +1,9 @@
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\bin\Debug\netstandard2.0\BibliotecaExemplo.deps.json
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\bin\Debug\netstandard2.0\BibliotecaExemplo.dll
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\bin\Debug\netstandard2.0\BibliotecaExemplo.pdb
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\obj\Debug\netstandard2.0\BibliotecaExemplo.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\obj\Debug\netstandard2.0\BibliotecaExemplo.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\obj\Debug\netstandard2.0\BibliotecaExemplo.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\obj\Debug\netstandard2.0\BibliotecaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\obj\Debug\netstandard2.0\BibliotecaExemplo.dll
+C:\Users\walid.marghata\source\repos\Path\BibliotecaExemplo\obj\Debug\netstandard2.0\BibliotecaExemplo.pdb

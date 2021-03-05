@@ -1,0 +1,13 @@
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\bin\Debug\netcoreapp3.1\Csharp EXE 2.exe
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\bin\Debug\netcoreapp3.1\Csharp EXE 2.deps.json
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\bin\Debug\netcoreapp3.1\Csharp EXE 2.runtimeconfig.json
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\bin\Debug\netcoreapp3.1\Csharp EXE 2.runtimeconfig.dev.json
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\bin\Debug\netcoreapp3.1\Csharp EXE 2.dll
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\bin\Debug\netcoreapp3.1\Csharp EXE 2.pdb
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.csproj.CoreCompileInputs.cache
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.dll
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.pdb
+C:\Users\walid.marghata\source\repos\Csharp EXE 2\Csharp EXE 2\obj\Debug\netcoreapp3.1\Csharp EXE 2.genruntimeconfig.cache

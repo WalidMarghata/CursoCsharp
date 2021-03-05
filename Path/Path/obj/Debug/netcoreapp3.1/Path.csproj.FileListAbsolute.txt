@@ -1,0 +1,16 @@
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\Path.exe
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\Path.deps.json
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.json
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.dev.json
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\Path.dll
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\Path.pdb
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\BibliotecaExemplo.dll
+C:\Users\walid.marghata\source\repos\Path\Path\bin\Debug\netcoreapp3.1\BibliotecaExemplo.pdb
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.csproj.CoreCompileInputs.cache
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.csproj.CopyComplete
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.dll
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.pdb
+C:\Users\walid.marghata\source\repos\Path\Path\obj\Debug\netcoreapp3.1\Path.genruntimeconfig.cache

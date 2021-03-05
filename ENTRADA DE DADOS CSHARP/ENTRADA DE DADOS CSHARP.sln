@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENTRADA DE DADOS CSHARP", "ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP.csproj", "{7E342A85-2D29-42E0-BD2B-7D1432557504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E342A85-2D29-42E0-BD2B-7D1432557504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E342A85-2D29-42E0-BD2B-7D1432557504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E342A85-2D29-42E0-BD2B-7D1432557504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E342A85-2D29-42E0-BD2B-7D1432557504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797450AC-58ED-4733-8E00-20BF4530D769}
+	EndGlobalSection
+EndGlobal

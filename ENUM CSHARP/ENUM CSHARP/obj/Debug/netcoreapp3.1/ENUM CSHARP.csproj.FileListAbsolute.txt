@@ -1,0 +1,4 @@
+C:\Users\walid.marghata\source\repos\ENUM CSHARP\ENUM CSHARP\obj\Debug\netcoreapp3.1\ENUM CSHARP.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\ENUM CSHARP\ENUM CSHARP\obj\Debug\netcoreapp3.1\ENUM CSHARP.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\ENUM CSHARP\ENUM CSHARP\obj\Debug\netcoreapp3.1\ENUM CSHARP.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\ENUM CSHARP\ENUM CSHARP\obj\Debug\netcoreapp3.1\ENUM CSHARP.csproj.CoreCompileInputs.cache

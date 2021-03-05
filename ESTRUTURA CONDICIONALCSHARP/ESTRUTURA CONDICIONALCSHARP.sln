@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESTRUTURA CONDICIONALCSHARP", "ESTRUTURA CONDICIONALCSHARP\ESTRUTURA CONDICIONALCSHARP.csproj", "{DEAA6D5B-54BC-407A-B037-38822A9CC32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAA6D5B-54BC-407A-B037-38822A9CC32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAA6D5B-54BC-407A-B037-38822A9CC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAA6D5B-54BC-407A-B037-38822A9CC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAA6D5B-54BC-407A-B037-38822A9CC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF56F9E1-EAED-4F04-8EE6-3FA24C3DC0F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\walid.marghata\source\repos\PROVA\PROVA\obj\Debug\netcoreapp3.1\PROVA.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\PROVA\PROVA\obj\Debug\netcoreapp3.1\PROVA.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\PROVA\PROVA\obj\Debug\netcoreapp3.1\PROVA.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\PROVA\PROVA\obj\Debug\netcoreapp3.1\PROVA.csproj.CoreCompileInputs.cache

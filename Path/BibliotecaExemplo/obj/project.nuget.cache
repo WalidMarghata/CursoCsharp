@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "evuSZEClYHl5hReYQYqNB2ZfrAlvpj1GrGv9b7vEp6CJRPi4v1gDMG2yBTPu5kO8NE9XJCgo4WwRoyDWwgdqQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\walid.marghata\\source\\repos\\Path\\BibliotecaExemplo\\BibliotecaExemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walid.marghata\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\walid.marghata\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

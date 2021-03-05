@@ -1,0 +1,13 @@
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.exe
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.deps.json
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.runtimeconfig.json
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.runtimeconfig.dev.json
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.dll
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.pdb
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.dll
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.pdb
+C:\Users\walid.marghata\source\repos\SAIDA DE DADOS CSHARP\SAIDA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\SAIDA DE DADOS CSHARP.genruntimeconfig.cache

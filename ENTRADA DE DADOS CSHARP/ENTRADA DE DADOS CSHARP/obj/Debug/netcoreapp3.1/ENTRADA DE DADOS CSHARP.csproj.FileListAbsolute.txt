@@ -1,0 +1,13 @@
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.exe
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.deps.json
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.runtimeconfig.json
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.runtimeconfig.dev.json
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.dll
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\bin\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.pdb
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.dll
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.pdb
+C:\Users\walid.marghata\source\repos\ENTRADA DE DADOS CSHARP\ENTRADA DE DADOS CSHARP\obj\Debug\netcoreapp3.1\ENTRADA DE DADOS CSHARP.genruntimeconfig.cache
