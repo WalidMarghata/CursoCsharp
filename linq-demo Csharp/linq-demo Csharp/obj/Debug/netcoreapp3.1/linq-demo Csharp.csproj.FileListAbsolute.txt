@@ -1,0 +1,4 @@
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\linq-demo Csharp\linq-demo Csharp\obj\Debug\netcoreapp3.1\linq-demo Csharp.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\linq-demo Csharp\linq-demo Csharp\obj\Debug\netcoreapp3.1\linq-demo Csharp.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\linq-demo Csharp\linq-demo Csharp\obj\Debug\netcoreapp3.1\linq-demo Csharp.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\linq-demo Csharp\linq-demo Csharp\obj\Debug\netcoreapp3.1\linq-demo Csharp.csproj.CoreCompileInputs.cache

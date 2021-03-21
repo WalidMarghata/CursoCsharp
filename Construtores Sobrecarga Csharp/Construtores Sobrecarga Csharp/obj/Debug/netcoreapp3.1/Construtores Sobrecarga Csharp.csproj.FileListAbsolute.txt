@@ -1,0 +1,4 @@
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\Construtores Sobrecarga Csharp\Construtores Sobrecarga Csharp\obj\Debug\netcoreapp3.1\Construtores Sobrecarga Csharp.csprojAssemblyReference.cache
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\Construtores Sobrecarga Csharp\Construtores Sobrecarga Csharp\obj\Debug\netcoreapp3.1\Construtores Sobrecarga Csharp.AssemblyInfoInputs.cache
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\Construtores Sobrecarga Csharp\Construtores Sobrecarga Csharp\obj\Debug\netcoreapp3.1\Construtores Sobrecarga Csharp.AssemblyInfo.cs
+C:\Users\walid.marghata\source\repos\WalidMarghata\PRATICAS-CSHARP\Construtores Sobrecarga Csharp\Construtores Sobrecarga Csharp\obj\Debug\netcoreapp3.1\Construtores Sobrecarga Csharp.csproj.CoreCompileInputs.cache
