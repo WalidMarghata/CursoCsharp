@@ -1,0 +1,15 @@
+bin\Debug\BethesdaCarRental1.exe
+bin\Debug\BethesdaCarRental1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BethesdaCarRental1.CarEditor.resources
+obj\Debug\BethesdaCarRental1.CustomerEditor.resources
+obj\Debug\BethesdaCarRental1.Customers.resources
+obj\Debug\BethesdaCarRental1.EmployeeEditor.resources
+obj\Debug\BethesdaCarRental1.Employees.resources
+obj\Debug\BethesdaCarRental1.OrderProcessing.resources
+obj\Debug\BethesdaCarRental1.Properties.Resources.resources
+obj\Debug\BethesdaCarRental1.RentalRates.resources
+obj\Debug\BethesdaCarRental1.csproj.GenerateResource.Cache
+obj\Debug\BethesdaCarRental1.exe
+obj\Debug\BethesdaCarRental1.pdb
+obj\Debug\BethesdaCarRental1.Central.resources

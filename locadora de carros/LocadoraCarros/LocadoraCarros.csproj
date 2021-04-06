@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C8068606-5FA7-4BC9-8B0E-F4DD4F527F37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BethesdaCarRental1</RootNamespace>
+    <AssemblyName>BethesdaCarRental1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Carro.cs" />
+    <Compile Include="CarroEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CarroEditor.Designer.cs">
+      <DependentUpon>CarroEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs" />
+    <Compile Include="ClienteEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteEditor.Designer.cs">
+      <DependentUpon>ClienteEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empregado.cs" />
+    <Compile Include="EmpregadoEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpregadoEditor.Designer.cs">
+      <DependentUpon>EmpregadoEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empregados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empregados.Designer.cs">
+      <DependentUpon>Empregados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Central.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Central.Designer.cs">
+      <DependentUpon>Central.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessamentoPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessamentoPedido.Designer.cs">
+      <DependentUpon>ProcessamentoPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CarroEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CarroEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Central.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Central.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ClienteEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpregadoEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EmpregadoEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empregados.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Empregados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessamentoPedido.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ProcessamentoPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaxasLocacao.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TaxasLocacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PedidoLocacao.cs" />
+    <Compile Include="TaxasLocacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaxasLocacao.Designer.cs">
+      <DependentUpon>TaxasLocacao.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
